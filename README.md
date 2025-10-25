@@ -37,7 +37,13 @@ Generated the following plots to interpret model performance:
 - **NumPy** – numerical computations  
 - **Pandas** – data handling and manipulation  
 - **Scikit-learn** – model training, metrics, and visualization  
-- **Matplotlib / Seaborn** – for enhanced data visualization  
+- **Matplotlib / Seaborn** – for enhanced data visualization
+
+# Dataset Information
+
+- Source: [Kaggle - Titanic Dataset](https://www.kaggle.com/datasets/yasserh/titanic-dataset)  
+- The dataset is **not uploaded** due to size constraints.  
+- You can download it directly from Kaggle and place it in your working directory. 
 
 # How to Run
 
